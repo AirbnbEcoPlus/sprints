@@ -9,7 +9,7 @@ export default defineConfig({
   ViewTransitions: true,
   output: "server",
   adapter: vercel(),
-  integrations: [tailwind(), react()]
-  site: 'https://airbnbecoplus.github.io'
-  base: '/sprints'
+  integrations: [tailwind(), react()],
+  site: 'https://airbnbecoplus.github.io',
+  base: '/sprints',
 });
