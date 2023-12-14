@@ -1,0 +1,5 @@
+{
+	"runtime": "nodejs18.x",
+	"handler": "home/krfcm2/code/sprints/dist/entry.mjs",
+	"launcherType": "Nodejs"
+}
