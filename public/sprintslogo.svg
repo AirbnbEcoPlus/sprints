@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="900px"
+   height="900px"
+   viewBox="0 0 900 900"
+   version="1.1"
+   xml:space="preserve"
+   id="SVGRoot"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="sprintslogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" />
+<sodipodi:namedview
+   pagecolor="#a9a9a9"
+   bordercolor="#292929"
+   borderopacity="1"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#232323"
+   id="namedview1"
+   inkscape:zoom="0.54595588"
+   inkscape:cx="429.52189"
+   inkscape:cy="450.58586"
+   inkscape:window-width="1576"
+   inkscape:window-height="846"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="SVGRoot" />
+<style
+   type="text/css"
+   id="style1">
+g.prefab path {
+  vector-effect:non-scaling-stroke;
+  -inkscape-stroke:hairline;
+  fill: none;
+  fill-opacity: 1;
+  stroke-opacity: 1;
+  stroke: #00349c;
+}
+</style>
+
+<rect
+   style="fill:#000000;stroke-width:3.77953;stroke-linejoin:bevel"
+   id="rect9"
+   width="929.87878"
+   height="927.01221"
+   x="-14.072267"
+   y="-11.098782" /><g
+   style="fill:none"
+   id="g13"
+   transform="matrix(28.928087,0,0,28.928087,107.06617,-16.060921)"><path
+     d="M 11.9994,21.4098 H 5.93944 c -3.47,0 -4.92,-2.48 -3.24,-5.51 l 3.12,-5.62 2.94,-5.28001 c 1.77996,-3.21 4.69996,-3.21 6.47996,0 l 2.94,5.29001 3.12,5.62 c 1.68,3.03 0.22,5.51 -3.24,5.51 h -6.06 z"
+     stroke="#292d32"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path1" /><g
+     opacity="0.4"
+     id="g3"><path
+       d="m 21.4405,19.9996 -9.44,-6.61 -9.43995,6.61"
+       stroke="#292d32"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path2" /><path
+       d="M 12,3 V 13.39"
+       stroke="#292d32"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path3" /></g></g><text
+   xml:space="preserve"
+   style="font-weight:bold;font-size:85.3333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:3.77953;stroke-linejoin:bevel"
+   x="300.09473"
+   y="711.73865"
+   id="text9"><tspan
+     sodipodi:role="line"
+     id="tspan9"
+     x="300.09473"
+     y="711.73865"
+     style="font-size:85.3333px">S-Prints</tspan></text><text
+   xml:space="preserve"
+   style="font-weight:bold;font-size:37.33333333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:3.77953;stroke-linejoin:bevel"
+   x="386.2189"
+   y="747.367"
+   id="text10"><tspan
+     sodipodi:role="line"
+     id="tspan10"
+     x="386.2189"
+     y="747.367" /></text><text
+   xml:space="preserve"
+   style="font-weight:bold;font-size:37.3333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke-width:3.77953;stroke-linejoin:bevel"
+   x="347.77744"
+   y="774.11499"
+   id="text12"><tspan
+     sodipodi:role="line"
+     id="tspan12"
+     x="347.77744"
+     y="774.11499">Delta Printer</tspan></text><g
+   id="g2"
+   transform="matrix(1.2889535,0,0,1.2889535,231.84506,133.48064)"
+   style="fill:#800000">
+	<polygon
+   style="fill:#d40000"
+   points="168.595,0 168.595,204.521 276.356,204.521 "
+   id="polygon1" />
+	<polygon
+   style="fill:#800000"
+   points="60.834,132.669 168.595,337.19 168.595,132.669 "
+   id="polygon2" />
+</g><g
+   style="fill:#000000"
+   id="g12"
+   transform="matrix(33.333333,0,0,33.333333,183.91704,70.254674)" /></svg>

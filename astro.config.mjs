@@ -10,4 +10,6 @@ export default defineConfig({
   output: "server",
   adapter: vercel(),
   integrations: [tailwind(), react()]
+  site: 'https://airbnbecoplus.github.io'
+  base: '/sprints'
 });
